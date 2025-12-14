@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Add New Book</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="icon" href="Screenshot 2025-12-14 122145.png">
 </head>
 <body class="bg-gray-100 min-h-screen">
     <nav class="bg-blue-600 p-4 text-white shadow-md">

@@ -10,6 +10,8 @@ $is_logged_in = isset($_SESSION['user_id']);
 <head>
     <meta charset="UTF-8">
     <title>Library Manager | <?= $page_title ?? "Home" ?></title>
+    <link rel="icon" href="Screenshot 2025-12-14 122145.png">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Optional custom styles */
